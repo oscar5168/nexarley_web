@@ -61788,13 +61788,13 @@ s=o*0.04
 r=o*0.025
 return A.adP(q,B.m,A.a9s(!0,new A.E2(A.Nj(new A.ib(new A.bt(p,s,p,s),A.akc(A.c([new A.zx(new A.q2("assets/logo.png"),n*0.15,q),A.m4(q,o*0.03,q),A.Et("Nexarley | DEV & Design",q,A.m8(q,q,B.j,q,q,q,q,q,q,q,q,n*0.05,q,q,B.dJ,q,q,!0,q,q,q,q,q,q,q,q),q),A.m4(q,o*0.01,q),A.Et("Creamos tu estilo, tu haces la historia.",q,A.m8(q,q,B.j,q,q,q,q,q,q,q,q,n*0.04,q,q,B.Z,q,q,!0,q,q,q,q,q,q,q,q),B.ex),A.m4(q,o*0.05,q),new A.j3(B.zo,"Escr\xedbenos al WhatsApp",new A.RO(this),q),A.m4(q,r,q),new A.j3(B.zr,"S\xedguenos en Facebook",new A.RP(this),q),A.m4(q,r,q),new A.j3(B.zn,"S\xedguenos en Instagram",new A.RQ(this),q),A.m4(q,r,q),new A.j3(B.zs,"Nuestros proyectos",new A.RR(a),q),A.m4(q,s,q)],t.af),B.cR),q),q,q),q),B.aG,!0))}}
 A.RO.prototype={
-$0(){return this.a.jE("https://wa.me/526565310943")},
+$0(){return this.a.jE("https://wa.me/526568548144")},
 $S:0}
 A.RP.prototype={
 $0(){return this.a.jE("https://www.facebook.com/profile.php?id=61577368476985&notif_id=1750390962711393&notif_t=follower_invite&ref=notif&locale=es_LA")},
 $S:0}
 A.RQ.prototype={
-$0(){return this.a.jE("https://www.instagram.com/nexyra.studio/?next=%2F")},
+$0(){return this.a.jE("https://www.instagram.com/nexarley.studio/?next=%2F")},
 $S:0}
 A.RR.prototype={
 $0(){A.a9g(this.a).Kd("/trabajos",null,t.X)},
